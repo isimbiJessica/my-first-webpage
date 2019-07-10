@@ -14,3 +14,9 @@ p {
 ul{
     line-height: 40px;
 }
+html{
+    background-color:grey;
+}
+ol{
+    line-height: 40px;
+}
